@@ -1,0 +1,18 @@
+Links
+https://discussions.udacity.com/t/final-project-how-to-add-the-new-created-features-to-the-dataset/250408/2
+https://stackoverflow.com/questions/379906/parse-string-to-float-or-int
+http://ggplot2.tidyverse.org/reference/geom_boxplot.html
+https://discussions.udacity.com/t/changing-c-gives-the-same-accuracy-up-to-c-1000/242256
+https://discussions.udacity.com/t/got-a-divide-by-zero-when-trying-out-svc/19823
+https://pandas.pydata.org/pandas-docs/stable/indexing.html
+https://plot.ly/pandas/box-plots/
+https://stackoverflow.com/questions/1024847/add-new-keys-to-a-dictionary
+https://stackoverflow.com/questions/40457025/box-plot-of-a-pandas-data-frame
+https://stackoverflow.com/questions/32370281/how-to-include-image-or-picture-in-jupyter-notebook
+https://stackoverflow.com/questions/39867061/pandas-get-first-10-elements-of-a-series
+https://stackoverflow.com/questions/34347145/pandas-plot-doesnt-show
+https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
+and several more...
+
+scikit documentation
+Several documentation pages
